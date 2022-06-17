@@ -22,6 +22,7 @@ public class SignUpTest {
         Assert.assertTrue(registerButton.isDisplayed());
 
 
+
     }
 
 }
